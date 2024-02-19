@@ -6,6 +6,6 @@ The aim of this project was to practise writing SQL querys to explore the databa
 For example:
  - Find the Invoices of customers who are from Brazil.
  - Which sales agent made the most dollars in sales in 2009?
- - Write a query that includes the purchased track name AND artist name with each invoice line ID
+ - Which sales rep generated the most sales in 2009?
 and more...
 
